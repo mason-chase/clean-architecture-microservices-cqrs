@@ -22,7 +22,7 @@ Example of best practices Clean Architecture with CQRS, Micros Service implement
 
 ## Best practices
 - TDD, BDD, DDD
-- SOLID Principles
+- [SOLID](https://en.wikipedia.org/wiki/SOLID) Principles: [S](https://en.wikipedia.org/wiki/Single-responsibility_principle) [O](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle) [L](https://en.wikipedia.org/wiki/Liskov_substitution_principle) [I] (https://en.wikipedia.org/wiki/Interface_segregation_principle) [D](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
 - Dependency Injection (DI) [Autofac](https://autofac.org/)
 - Clean Code Tools ([Sonar Analyzer](https://www.nuget.org/packages/SonarAnalyzer.CSharp/)
 - Code Snippets ([C# code snippets](https://docs.microsoft.com/en-us/visualstudio/ide/visual-csharp-code-snippets?view=vs-2022))
