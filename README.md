@@ -58,13 +58,18 @@ Example of best practices Clean Architecture with CQRS, Micros Service implement
 - Payment
 - Customer Relationship Service
 
+## Data Access Frameworks (ORM)
+[ ] (Entity Framework Core)[https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-6.0/plan]
+[ ] Dapper
+[ ] (Lazy Migration)[https://github.com/kennethklee/mongoose-rolling-migration]
+
 ## Pipelines
 - GitLab, GitHub, Azure
 - Unit testings
 - Integration testings
 - End To End Testing ([Selenium](https://www.selenium.dev/), [XPath](https://en.wikipedia.org/wiki/XPath))
 
-## Agile coneps
+## Agile concepts
 - Jira, Azure DevOps
 - Epic, Feature, User Story, Boards
 - Values: Business, Infrastructure
