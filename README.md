@@ -31,7 +31,7 @@ Example of best practices Clean Architecture with CQRS, Micros Service implement
 - [ ] Error Handling (Business Logic, Application Failure, Third Party Failure, Security and Unhandled)
 - [ ] [API-first-code-first](https://swagger.io/resources/articles/adopting-an-api-first-approach/#:~:text=An%20API%2Dfirst%20approach%20means,be%20consumed%20by%20client%20applications.)
 - [ ] Monitoring and [Health Checks](https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/health-checks?view=aspnetcore-6.0)
-- [ ] (GitOps)[https://www.gitops.tech/]
+- [ ] [GitOps](https://www.gitops.tech/)
 - [ ] Document-As-Code and [Self Documenting](https://en.wikipedia.org/wiki/Self-documenting_code) ([DocFx](https://dotnet.github.io/docfx/) [Graphwiz](http://www.graphviz.org/))
 - [ ] API Documentation ([Slate](https://github.com/slatedocs/slate))
 - [ ] Multi Threading (await/async)
@@ -59,9 +59,9 @@ Example of best practices Clean Architecture with CQRS, Micros Service implement
 - [ ] Customer Relationship Service
 
 ## Data Access Frameworks (ORM)
-- [ ] (Entity Framework Core)[https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-6.0/plan]
+- [ ] [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-6.0/plan)
 - [ ] Dapper
-- [ ] (Lazy Migration)[https://github.com/kennethklee/mongoose-rolling-migration]
+- [ ] [Lazy Migration](https://github.com/kennethklee/mongoose-rolling-migration)
 
 ## Caching and searching
 - [ ] Redis
