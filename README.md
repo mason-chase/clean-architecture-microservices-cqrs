@@ -20,8 +20,12 @@ Example of best practices Clean Architecture with CQRS, Micros Service implement
 - [ ] Azure's AKS
 - [ ] AWS's Kuberenetes
 
+## Data Replication and Consistency
+- [ ] [CRDT (Conflict-free replication data type)](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
+- [ ] [Semi-Synchronous Replication](https://dev.mysql.com/doc/refman/5.7/en/replication-semisync.html)
+
 ## Best practices
-- [ ] TDD, BDD, DDD
+- [ ] [TDD](https://en.wikipedia.org/wiki/Test-driven_development), [BDD](https://en.wikipedia.org/wiki/Behavior-driven_development), [DDD](https://en.wikipedia.org/wiki/Domain-driven_design)
 - [ ] [SOLID](https://en.wikipedia.org/wiki/SOLID) Principles: [S](https://en.wikipedia.org/wiki/Single-responsibility_principle) [O](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle) [L](https://en.wikipedia.org/wiki/Liskov_substitution_principle) [I](https://en.wikipedia.org/wiki/Interface_segregation_principle) [D](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
 - [ ] Dependency Injection (DI) [Autofac](https://autofac.org/)
 - [ ] Clean Code Tools ([Sonar Analyzer](https://www.nuget.org/packages/SonarAnalyzer.CSharp/)
@@ -50,6 +54,9 @@ Example of best practices Clean Architecture with CQRS, Micros Service implement
 - [ ] Customer Relationship Service (Chat, Ticket)
 - [ ] Fullfilment Center
 - [ ] Product administration
+
+## Front specific features
+- [ ] [Deep linking](https://en.wikipedia.org/wiki/Mobile_deep_linking)
 
 ## Back-end Services
 - [ ] Customer
