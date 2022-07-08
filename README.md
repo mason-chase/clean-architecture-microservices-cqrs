@@ -75,7 +75,7 @@ Example of best practices Clean Architecture with CQRS, Micros Service implement
 - [ ] Elastic Search
 
 ## Pipelines
-- [ ] GitLab, GitHub, Azure
+- [ ] GitLab, GitHub, Azure, [Argo](https://argoproj.github.io/)
 - [ ] Unit testings
 - [ ] Integration testings
 - [ ] End To End Testing ([Selenium](https://www.selenium.dev/), [XPath](https://en.wikipedia.org/wiki/XPath))
